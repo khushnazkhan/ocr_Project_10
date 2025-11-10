@@ -1,0 +1,3 @@
+image,crop_path,box,score,class
+/content/drive/MyDrive/project 10/datasets/images/val/thyrocare_0_3813.jpg,/content/drive/MyDrive/project 10/results/crops/thyrocare_0_3813_crop_0.png,"(90, 160, 189, 187)",0.2936743199825287,0
+/content/drive/MyDrive/project 10/datasets/images/val/thyrocare_0_3813.jpg,/content/drive/MyDrive/project 10/results/crops/thyrocare_0_3813_crop_1.png,"(97, 135, 196, 187)",0.27329862117767334,0
